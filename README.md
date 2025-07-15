@@ -8,7 +8,7 @@
 
 ## 🛠️ Tools and Technologies
 
-- Python 3.x
+- Python 
 - Jupyter Notebook / VS Code
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn, SciPy
